@@ -7,43 +7,48 @@ Welcome to the repository for the hackathon organized by **Innovation Council** 
 
 ### Problem Statement
 
-The goal of this hackathon is to foster creativity, teamwork, and innovation among participants. We will work on solving challenges related to **[specific domain or technology]**, with the objective of **[specific problem you are addressing]**.
-
+ The project helps farmers choose the right crop based on soil quality, weather patterns, and other 
+parameters, addressing the common issue of crop mismatch that leads to low yield or failure
 ---
 
 ## Team Details
 
-**Team Name:** [Your Team Name]
+**Team Name:** 404 Squad
 
 ### Team Members
 
 1. **Member 1**  
-   - **Name:** [Full Name]  
-   - **USN:** [University Serial Number]
+   - **Name:** Karthik D  
+   - **USN:** 1SI22CS078
 
 2. **Member 2**  
-   - **Name:** [Full Name]  
-   - **USN:** [University Serial Number]
+   - **Name:** Kushal M  
+   - **USN:** 1SI22CS086
 
 3. **Member 3**  
-   - **Name:** [Full Name]  
-   - **USN:** [University Serial Number]
+   - **Name:** Preetham Gowda HR  
+   - **USN:** 1SI22CS135
 
 4. **Member 4**  
-   - **Name:** [Full Name]  
-   - **USN:** [University Serial Number]
+   - **Name:** Lalithaditya K 
+   - **USN:** 1SI22CS090
 
 ---
 
 ## Project Description
 
-[Provide a brief description of your project, the problem you are solving, and your approach.]
+Agri-Vision is an AI-powered project designed to bring innovation to agriculture by leveraging computer vision techniques. The project focuses on detecting crop diseases, assessing plant health, and enabling precision farming practices to help farmers optimize yield and reduce losses.
 
 ---
 
 ## Technologies Used
 
-- [List the technologies used in your project, e.g., Python, JavaScript, TensorFlow, Node.js, etc.]
+- **Python**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **PHP**
+
 
 ---
 
